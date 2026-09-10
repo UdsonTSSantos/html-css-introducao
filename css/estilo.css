@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+    box-sizing: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h2{
+
+    background-color: black;
+    color: white;
+    font-size: 20;
+    font-weight: 100;
+    font-style: italic;
+     
+}
+
+p strong{
+    color: #ff0000;
+}
+
+.texto-verde{
+    color: #00ff00;
+
+}
+
+.bg-laranja{
+    background-color: #ff4d00;
+}
+    
+
+
