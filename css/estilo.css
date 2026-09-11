@@ -29,6 +29,18 @@ p strong{
 .bg-laranja{
     background-color: #ff4d00;
 }
+
+ul{
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+}
+
+body {
+  background-image: url('../image/img01.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
     
 
 
